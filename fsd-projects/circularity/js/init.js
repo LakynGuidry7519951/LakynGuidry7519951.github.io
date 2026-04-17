@@ -67,11 +67,15 @@ drawCircle()
         */
         function update() {
             // TODO 4 : Update the position of each circle using physikz.updatePosition()
-for (var i = 0; i < circles.length; i++) {
+physikz.updatePosition(circles[ 0 ])
 
-               physikz.updatePosition(circles[i]);
+physikz.updatePosition(circles[ 1 ])
 
-               game.checkCirclePosition(circles[i]);
+physikz.updatePosition(circles[ 2 ])
+
+physikz.updatePosition(circles[ 3 ])
+
+physikz.updatePosition(circles[ 4 ])
 
 
 }
