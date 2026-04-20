@@ -41,6 +41,16 @@ circle = draw.randomCircleInArea(canvas, true, true, "#1d58b1", 2);
 
 
         // TODO 3 : Call the drawCircle() function
+drawCircle()
+
+drawCircle()
+
+drawCircle()
+
+drawCircle()
+
+drawCircle()
+
 
 
 
